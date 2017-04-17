@@ -1,0 +1,25 @@
+{
+  "name": "loader-comparison",
+  "version": "0.0.0",
+  "description": "comparison of a number of front-end asset loaders",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiken77/DJProject.git"
+  },
+  "author": "desmondhsu & raiken77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiken77/DJProject/issues"
+  },
+  "homepage": "https://github.com/raiken77/DJProject#readme",
+  "dependencies": {
+    "express": "4.15.2"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
